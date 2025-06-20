@@ -78,3 +78,13 @@ Each customer is scored on a scale (e.g. 1–5), and segments are created based 
 - Table: Segment-level averages (monetary, frequency, recency)
 
 ---
+
+## 📁 Folder Structure
+
+├── data/ # Retail dataset CSV
+│ └── retail_sales_dataset.csv
+├── notebooks/
+│ └── rfm_analysis_notebook.ipynb
+├── powerbi_report/
+│ └── customer_segmentation_report.pbix
+├── README.md # Project documentation
