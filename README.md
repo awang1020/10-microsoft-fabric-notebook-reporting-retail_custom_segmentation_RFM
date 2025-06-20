@@ -6,6 +6,12 @@ This project is a **customer segmentation analysis** using the **RFM (Recency, F
 
 It aims to help marketing teams **identify customer behavior patterns** and develop **targeted strategies** to increase engagement, retention, and revenue.
 
+## 📊 Aperçu du Dashboard Power BI
+
+Voici un aperçu du tableau de bord interactif construit dans Power BI :
+
+![Power BI Dashboard](visuals/powerbi_dashboard.png)
+
 ---
 
 ## 🔧 Tools & Technologies
